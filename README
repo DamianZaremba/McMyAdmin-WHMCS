@@ -7,7 +7,7 @@ The plugin uses the JSON MCMA API for communication.
 
 Install
 -------
-* Download code from [GitHub](http://github.com/AllGamer/MCMA_WHMCS/).
+* Download code from [GitHub](https://github.com/AllGamer/mcma_whmcs/tarball/master).
 * Untar into {{whmcs root}}/modules/servers/mcma/
 * Create a server and complete the following details:
 	* Name
