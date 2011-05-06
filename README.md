@@ -43,7 +43,7 @@ Install
 
 Authors
 -------
-Damian Zaremba <damian@damianzaremba.co.uk>
+* Damian Zaremba - <damian@damianzaremba.co.uk>
 
 License
 -------
