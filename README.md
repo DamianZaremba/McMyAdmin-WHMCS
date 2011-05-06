@@ -70,6 +70,7 @@ THE SOFTWARE.
 Changelog
 ---------
 _ Version 0.1 _
+
 * Initial version
 * Supports:
 	* Optional whitelisting
@@ -79,4 +80,5 @@ _ Version 0.1 _
 * Has a force sync button in case of un-synced stuff
 
 Known bugs:
+
 * None
