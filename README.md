@@ -69,7 +69,7 @@ THE SOFTWARE.
 
 Changelog
 ---------
-_ Version 0.1 _
+_Version 0.1_
 
 * Initial version
 * Supports:
