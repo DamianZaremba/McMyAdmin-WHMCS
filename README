@@ -7,7 +7,7 @@ The plugin uses the JSON MCMA API for communication.
 
 Install
 -------
-* Download code from [GitHub](https://github.com/AllGamer/mcma_whmcs/tarball/master).
+* Download code from [GitHub](https://github.com/DamianZaremba/McMyAdmin-WHMCS/tarball/master).
 * Untar into {{whmcs root}}/modules/servers/mcma/
 * Create a server and complete the following details:
 	* Name
@@ -47,7 +47,7 @@ Damian Zaremba <damian@damianzaremba.co.uk>
 
 License
 -------
-Copyright (c) 2011 AllGamer, LLC
+Copyright (c) 2011 Damian Zaremba <damian@damianzaremba.co.uk>
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
